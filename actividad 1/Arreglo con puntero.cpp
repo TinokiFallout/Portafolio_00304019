@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void calculos(int num; int *doble, int *triple){
+void calculos(int num, int *doble, int *triple){
 	*doble = 2 * num;
 	*triple = 3 * num;
 }
