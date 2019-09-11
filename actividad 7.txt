@@ -1,0 +1,23 @@
+Algoritmo
+Inicialize(pila) = A, B, C, D, E
+validar= verdadero
+f = inicialización
+Quitar los elementos A y B de la pila iniciada con un solo pop, quitando D para eliminar El E sin
+necesidad de destruirlo
+While(Destruyendo D de la pila){
+if(pila == 'D')
+pop(f, pila)
+Else if (es otro símbolo de los de la pila)
+Validar = false
+if(empty(s)) {
+valid = false
+break
+}
+}
+if( !empty(s) )
+valid = false
+if(valid)
+Se ha destruido los dos elementos 1 y 2
+else
+No se destruyó nada;
+}
