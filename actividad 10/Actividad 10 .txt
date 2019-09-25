@@ -1,0 +1,15 @@
+Actividad 10
+Convertir de manera intuitiva y luego utilizando el algoritmo visto el dia de
+hoy, las siguientes expresiones de notacion infija a postfija:
+
+1. A - B / (C * D $ E) 
+2. A - B / (C * DE $) = $
+3. A - B / (CDE $ *) = *
+4. AB - / CDE $ * = -
+
+
+1. ((A + B) * C - (D - E)) $ (F + G)
+2. ((A + B) * C - (D - E)) $ (FG +) = +
+3. ((AB +) * C - (DE -)) $ (FG +) = - +
+4. AB + * C - DE - FG + $ = $ 
+5. AB + C * DE - - FG + $ = * - 
